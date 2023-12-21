@@ -1,8 +1,10 @@
 import React from 'react'
+import CustomersTable from '@/app/ui/customers/table'
 
 const CustomersPage = () => {
   return (
-    <div> CustomersPage</div>
+    // <div> <CustomersTable customers={customers}/></div>
+    <div>hello</div>
   )
 }
 
